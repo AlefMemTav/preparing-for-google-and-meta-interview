@@ -4,7 +4,7 @@ Preparing for Google and Meta interview.
 ## Arrays
 ### Easy
 1. Merge two sorted arrays [(Solution)](arrays/MergeTwoSortedArrays)
-2. Remove duplicates from an array [(Solution)](arrays/RemoveDuplicatesFromAnArray)
+2. Remove duplicates from an array [(Solution w. Hash Table)](arrays/RemoveDuplicatesFromAnArray)
 3. Count the frequency of an element in an array
 4. Two sum
 5. Find the minimum (or maximum) element of an array
@@ -54,3 +54,61 @@ Preparing for Google and Meta interview.
 15. Sort an array containing 0’s, 1’s and 2’s
 16. Longest increasing subsequence
 17. Trapping Rain Water
+
+## Strings
+### Easy
+1. Remove Vowels from a String
+2. Defanging an IP Address
+3. Jewels and Stones
+4. Shuffle String
+5. Split a String in Balanced Strings
+6. To Lower Case
+7. Unique Morse Code Words
+8. Count Substrings with Only One Distinct Letter
+9. Robot Return to Origin
+10. Fizz Buzz
+11. First Unique Character in a String
+12. Reverse String
+13. Valid Anagram
+14. Valid Palindrome
+15. Implement Strstr()
+16. Valid Parentheses
+17. Roman to Integer
+18. Longest Common Prefix
+19. Excel Sheet Column Number
+20. Palindrome Permutation
+    
+### Medium
+1. Longest Substring Without Repeating Characters
+2. Longest Palindromic Substring
+3. String to Integer (atoi)
+4. Letter Combinations of a Phone Number
+5. Generate Parentheses
+6. Count and Say
+7. Group Anagrams
+8. Decode Ways
+9. Palindrome Partitioning
+10. Word Break
+11. Fraction to Recurring Decimal
+12. Largest Number
+13. Implement Trie (Prefix Tree)
+14. Basic Calculator II
+15. Longest Substring with At Least K Repeating Characters
+16. Palindrome Partitioning
+17. Reorganize String
+18. ZigZag Conversion
+19. Decode String
+20. Multiply Strings
+
+### Hard
+1. Regular Expression Matching
+2. Wildcard Matching
+3. Minimum Window Substring
+4. Word Ladder
+5. Word Break II
+6. Word Search II
+7. Serialize and Deserialize Binary Tree
+8. Longest Valid Parentheses
+9. Edit Distance
+10. Alien Dictionary (string/graph)
+11. Design Search Autocomplete System
