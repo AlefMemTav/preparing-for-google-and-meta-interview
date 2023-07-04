@@ -5,7 +5,7 @@ Preparing for Google and Meta interview.
 ### Easy
 1. Merge two sorted arrays [(Solution)](arrays/MergeTwoSortedArrays)
 2. Remove duplicates from an array [(Solution)](arrays/RemoveDuplicatesFromAnArray)
-3. Count the frequency of an element in an array
+3. Count the frequency of an element in an array [(Solution)](arrays/CountTheFrequencyOfAnElementInAnArray/)
 4. Two sum
 5. Find the minimum (or maximum) element of an array
 6. Remove duplicates from sorted array
