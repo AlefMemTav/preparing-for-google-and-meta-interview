@@ -20,7 +20,8 @@ HashTable hashTable[TABLE_SIZE];
 
 int hash(int key)
 {
-    return key % TABLE_SIZE;
+    return abs(key) % TABLE_SIZE;
+
 }
 
 void initializeHashTable()
