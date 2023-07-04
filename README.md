@@ -4,7 +4,7 @@ Preparing for Google and Meta interview.
 ## Arrays
 ### Easy
 1. Merge two sorted arrays [(Solution)](arrays/MergeTwoSortedArrays)
-2. Remove duplicates from an array [(Solution w. Hash Table)](arrays/RemoveDuplicatesFromAnArray)
+2. Remove duplicates from an array [(Solution)](arrays/RemoveDuplicatesFromAnArray)
 3. Count the frequency of an element in an array
 4. Two sum
 5. Find the minimum (or maximum) element of an array
@@ -57,7 +57,7 @@ Preparing for Google and Meta interview.
 
 ## Strings
 ### Easy
-1. Remove Vowels from a String
+1. Remove Vowels from a String [(Solution)](strings/RemoveVowelsFromAString)
 2. Defanging an IP Address
 3. Jewels and Stones
 4. Shuffle String
