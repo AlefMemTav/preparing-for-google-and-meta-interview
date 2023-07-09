@@ -67,6 +67,7 @@ int main()
     int nums[] = {2, 7, 11, 15};
     int target = 9;
     */
+
     /*test2
     int nums[] = {3,2,4};
     int target = 6;
@@ -91,6 +92,5 @@ int main()
         printf("[%d, %d]\n", result[0], result[1]);
         free(result);
     }
-
     return 0;
 }
