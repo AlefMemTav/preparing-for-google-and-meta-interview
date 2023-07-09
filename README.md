@@ -28,7 +28,7 @@ Preparing for Google and Meta interview.
 5. A Product Array Puzzle
 6. Maximum Product Subarray (Dynamic programming)
 7. Shortest Unsorted Continuous Subarray
-8. Shortest Unsorted Continuous Subarray
+8. Maximum sum of hour glass in matrix
 9. Paint House (Dynamic programming)
 10. Minimum number of jumps to reach end
 11. Find duplicates in O(n) time and O(1) extra space
