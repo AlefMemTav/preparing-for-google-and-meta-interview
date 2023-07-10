@@ -45,6 +45,7 @@ int* twoSum(int* nums, int size, int target, int* returnSize)
     for (int i = 0; i < size; i++)
     {
         int complement = target - nums[i];
+
         int index = hash(complement);
 
         if (hashTable[index] != -1)
@@ -56,6 +57,7 @@ int* twoSum(int* nums, int size, int target, int* returnSize)
             return result;
         }
         hashTable[hash(nums[i])] = i;
+        printf("Set Hash in position %d <-- %d\n", hash(nums[i]), i);
     }
 
     return NULL;
@@ -63,10 +65,9 @@ int* twoSum(int* nums, int size, int target, int* returnSize)
 
 int main()
 {
-    /*test1
+    /*test1*/
     int nums[] = {2, 7, 11, 15};
     int target = 9;
-    */
 
     /*test2
     int nums[] = {3,2,4};
@@ -78,10 +79,10 @@ int main()
     int target = 6;
     */
 
-    /*test4*/
+    /*test4
     int nums[] = {3,2,95,4,-3};
     int target = 92;
-
+    */
     int size = sizeof(nums) / sizeof(nums[0]);
     int returnSize = 0;
 

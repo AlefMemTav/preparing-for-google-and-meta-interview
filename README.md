@@ -24,7 +24,7 @@ Preparing for Google and Meta interview.
 1. Move all zeros to the beginning/end of an array
 2. Find if a given element is in a sorted array (binary search)
 3. Rotate an array
-4. Largest sum of non-adjacent numbers (Dynamic Programming)
+4. Largest sum of non-adjacent numbers (Dynamic Programming) [(Solution)](arrays/LargestSumOfNon-adjacentNumbers/)
 5. A Product Array Puzzle
 6. Maximum Product Subarray (Dynamic programming)
 7. Shortest Unsorted Continuous Subarray
